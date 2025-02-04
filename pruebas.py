@@ -94,3 +94,14 @@ a=5
 a=a+2
 print(a)
 a+=2
+""" nota = float (input("Introduce una nota: "))
+if nota <5:
+    print ("suspenso")
+elif nota >=5 and nota <6:
+    print ("suficiente")
+elif nota >=6 and nota <7:
+    print ("bien")
+elif nota >=8 and nota <9:
+    print ("notable")
+elif nota >=9 and nota <=10:
+    print ("sobresaliente") """
